@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>My First Post on My New Hugo Site</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in My First Post on My New Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 20 Nov 2022 09:03:20 -0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1313/posts/%E6%97%B6%E9%92%9F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/%E6%97%B6%E9%92%9F/</guid>
+        <description>&lt;p&gt;时钟信号是周期信号，所以在频域上的能量是集中在某个频率上的，这也就造成了时钟EMI测试超标的问题。&lt;/p&gt;
+&lt;p&gt;时钟EMI超标的重要原因：时钟信号的回流路径设计不合理。对于时钟而言，回路面积越小，辐射就越小！
+高频电流总是走回路电感最小的路径，因为回路电感L = F / I （F是磁通量，I是回路电流），而磁通量跟回路面积成正比，所以回路面积小，回路电感也就小。  （&lt;strong&gt;磁通最小&lt;/strong&gt;）&lt;/p&gt;
+&lt;p&gt;设计PCB时，一定要注意减小高频信号的回路面积！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/posts/%E7%94%B5%E6%BA%90/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/%E7%94%B5%E6%BA%90/</guid>
+        <description>&lt;p&gt;开关电源的频率一般在400k或者2.2M Hz 左右，
+和广播波段的 隔开   [[射频]]&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
